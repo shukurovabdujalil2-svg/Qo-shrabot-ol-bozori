@@ -1,0 +1,5 @@
+# Static site: no framework, no package manager, no build step.
+# Files are served as-is from the repository root.
+[build]
+  command = ""
+  publish = "."
